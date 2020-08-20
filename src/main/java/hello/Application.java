@@ -11,7 +11,7 @@ public class Application {
 
   @RequestMapping("/")
   public String home() {
-    return "Hello WOrld! This is a Spring Application";
+    return "Hello W0rld! This is a Spring Application";
   }
 
   public static void main(String[] args) {
